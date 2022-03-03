@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on cloud security
+- 🌱 I’m currently learning Kubernetes
+
+
 <!--
 **sabate/sabate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
