@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on cloud security
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning 
 
 
 <!--
