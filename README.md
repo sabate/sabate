@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on different projects, but the area I enjoy the most is Cloud Security in Azure and AWS.
-- 🌱 I’m learning to attempt the AWS Solution Architect Professional certification in April.
-- ⚡ I'm preparing to run a Marathon in June, Summer is around the corner!
+- 🔭 I’m currently working on different projects, but the ones I enjoy the most are the ones related to Cloud Security in Azure and AWS.
+- 🌱 Planning to attempt the AWS Solution Architect Professional certification in April.
+- 🏃‍♂️ Training has started for me to run a Marathon in June, Summer is around the corner!
 
 
 <!--
