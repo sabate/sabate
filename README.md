@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cloud security
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working on different projects, but the area I enjoy the most is Cloud Security in Azure and AWS.
+- 🌱 I’m learning to attempt the AWS Solution Architect Professional certification in April.
+- ⚡ I'm preparing to run a Marathon in June, Summer is around the corner!
 
 
 <!--
@@ -16,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
