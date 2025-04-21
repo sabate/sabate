@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 👷‍♂️ On a mission to learn by doing everyday ☁🔐
-- 👨‍💼 Learning from the enterprise to provide the best fit.
-- 🧩 Planning to attempt the AWS Solutions Architect Professional certification in April.
-- 🏃‍♂️ Marathon in June "menos pastilla y mas zapatilla"
-- 🏴󠁧 I've been in Scotland for the last 19 years, time just flies!
+Thanks for stopping to my repo. I'm David Sabaté
+
+- Security Architecture can be challenging, let's try to stay on top being simple and tidy.
+- 👷‍♂️ On a mission to learn by doing everyday.
+- 👨‍💼 Learning from the enterprise in equal measure to provide the best fit for it.
+- 💼 Reusinng artefacts whenever is possible.
+- 🏃‍♂️ Marathon in June "menos pastilla y mas zapatilla".
 
 
 <!--
