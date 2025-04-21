@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔒 I’m working on different projects, enjoying the ones related to Azure and AWS Security the most.
+- 👷‍♂️ On a mission to learn by doing everyday ☁🔐
+- 👨‍💼 Learning from the enterprise to provide the best fit.
 - 🧩 Planning to attempt the AWS Solutions Architect Professional certification in April.
-- 🏃‍♂️ Training has started for me to run a Marathon in June, Summer is around the corner!
-- 🏴󠁧󠁢󠁳󠁣󠁴󠁿 I'm going for 19 years in Scotland, and it still amazes me.
+- 🏃‍♂️ Marathon in June "menos pastilla y mas zapatilla"
+- 🏴󠁧 I've been in Scotland for the last 19 years, time just flies!
 
 
 <!--
