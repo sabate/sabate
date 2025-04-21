@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Thanks for stopping at my repo.
 
-Thanks for stopping to my repo. I'm David Sabaté
+Security Architecture can be challenging, let's try to stay on top being simple and tidy.
 
-- Security Architecture can be challenging, let's try to stay on top being simple and tidy.
 - 👷‍♂️ On a mission to learn by doing everyday.
-- 👨‍💼 Learning from the enterprise in equal measure to provide the best fit for it.
+- 👨‍💼 Learning from the enterprise in equal measure: to provide the best fit for it.
 - 💼 Reusinng artefacts whenever is possible.
-- 🏃‍♂️ Marathon in June "menos pastilla y mas zapatilla".
+- 🏃‍♂️ Marathon in June "menos pastilla y más zapatilla". Physical training is part of the package.
 
 
 <!--
