@@ -1,6 +1,6 @@
 ### Hi there 👋 thanks for stopping at my repo.
 
-Security Architecture can be challenging, I'm trying to stay on top being **simple** and **tidy**.
+Security Architecture can be challenging, I'm trying to stay on top keeping it **simple** and **tidy**.
 
 - 👷‍♂️ On a mission to **learn by doing** everyday.
 - 👨‍💼 Learning from the **enterprise in equal measure**: to provide the best fit for it.
